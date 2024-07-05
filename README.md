@@ -1,30 +1,39 @@
-Code for the AlgoDat-I UE
+# Code for the AlgoDat-I UE
 
 Implemented Algorithms and Data Structures:
 
-Complexity:
+1.Complexity:
 
-Unfolding & Proofing
-Master Theorem
-Maze Solving with Recursion
+- Unfolding & Proofing
 
-Lists, Stacks, Queues:
+- Master Theorem
 
-Linked Lists & Sorted Doubly-linked List
-Search Trees:
-Binary Search
+- Maze Solving with Recursion
 
-Heaps & Priority Queues:
+2. Lists, Stacks, Queues:
 
-Priority Queue using MinHeap
-MinHeap & MaxHeap
-Strings & Pattern Matching
+- Linked Lists & Sorted Doubly-linked List
 
-Sorting:
+3.Search Trees:
 
-HeapSort
-RadixSort
-Knuth-Morris-Pratt (KMP)
-Rabin-Karp
+- Binary Search
+
+4.Heaps & Priority Queues:
+
+- Priority Queue using MinHeap
+
+- MinHeap & MaxHeap
+
+- Strings & Pattern Matching
+
+5.Sorting:
+
+- HeapSort
+
+- RadixSort
+  
+- Knuth-Morris-Pratt (KMP)
+
+- Rabin-Karp
 
 
