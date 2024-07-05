@@ -18,7 +18,7 @@ Heaps & Priority Queues:
 
 Priority Queue using MinHeap
 MinHeap & MaxHeap
-Strings & Patterns
+Strings & Pattern Matching
 
 Sorting:
 
