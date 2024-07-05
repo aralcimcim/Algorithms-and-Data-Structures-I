@@ -4,36 +4,34 @@ Implemented Algorithms and Data Structures:
 
 1. Complexity:
 
-- Unfolding & Proofing
+  - Unfolding & Proofing
 
-- Master Theorem
+  - Master Theorem
 
-- Maze Solving with Recursion
+  - Maze Solving with Recursion
 
 2. Lists, Stacks, Queues:
 
-- Linked Lists & Sorted Doubly-linked List
+  - Linked Lists & Sorted Doubly-linked List
 
 3. Search Trees:
 
-- Binary Search
+  - Binary Search
 
 4. Heaps & Priority Queues:
 
-- Priority Queue using MinHeap
+  - Priority Queue using MinHeap
 
-- MinHeap & MaxHeap
+  - MinHeap & MaxHeap
 
-- Strings & Pattern Matching
+  - Strings & Pattern Matching
 
 5. Sorting:
 
-- HeapSort
+  - HeapSort
 
-- RadixSort
+  - RadixSort
   
-- Knuth-Morris-Pratt (KMP)
+  - Knuth-Morris-Pratt (KMP)
 
-- Rabin-Karp
-
-
+  - Rabin-Karp
