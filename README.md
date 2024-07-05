@@ -6,9 +6,9 @@ Implemented Algorithms and Data Structures:
 
   - Unfolding & Proofing
 
-    - Master Theorem
+  - Master Theorem
 
-      - Maze Solving with Recursion
+  - Maze Solving with Recursion
 
 2. Lists, Stacks, Queues:
 
