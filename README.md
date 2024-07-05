@@ -2,7 +2,7 @@
 
 Implemented Algorithms and Data Structures:
 
-1.Complexity:
+1. Complexity:
 
 - Unfolding & Proofing
 
@@ -14,11 +14,11 @@ Implemented Algorithms and Data Structures:
 
 - Linked Lists & Sorted Doubly-linked List
 
-3.Search Trees:
+3. Search Trees:
 
 - Binary Search
 
-4.Heaps & Priority Queues:
+4. Heaps & Priority Queues:
 
 - Priority Queue using MinHeap
 
@@ -26,7 +26,7 @@ Implemented Algorithms and Data Structures:
 
 - Strings & Pattern Matching
 
-5.Sorting:
+5. Sorting:
 
 - HeapSort
 
